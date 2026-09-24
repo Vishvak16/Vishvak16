@@ -2,10 +2,7 @@
   ============================================================
   Vishvak Sunkari — GitHub Profile README
   Update the <!-- EDIT --> comments below with your own info.
-  Place this file (AND the /assets/banner.svg file) in a repo
-  named exactly: Vishvak16/Vishvak16
-  ============================================================
--->
+ 
 
 <div align="center">
 
