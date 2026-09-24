@@ -1,7 +1,7 @@
 <!--
   ============================================================
   Vishvak Sunkari — GitHub Profile README
-  Update the <!-- EDIT --> comments below with your own info.
+  
  
 
 <div align="center">
