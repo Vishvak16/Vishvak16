@@ -1,13 +1,19 @@
-
-
+<!--
+  ============================================================
+  Vishvak Sunkari — GitHub Profile README
+  Update the <!-- EDIT --> comments below with your own info.
+  Place this file (AND the /assets/banner.svg file) in a repo
+  named exactly: Vishvak16/Vishvak16
+  ============================================================
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C4FF&height=220&section=header&text=Vishvak%20Sunkari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C4FF&height=180&text=VISHVAK%20SUNKARI&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=68&descSize=18&descColor=7dd3fc" width="100%" alt="banner"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Data+Analysis+%26+Visualization;Learning+DSA+with+Python;Next+Up%3A+GenAI+%2B+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Data+Analyst;Learning+DSA+with+Python;Next+Up%3A+GenAI+%2B+Agentic+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,14 +34,14 @@
 ## 👤 About Me
 
 - 🎓 B.Tech in Electrical and Electronics Engineering, Sreenidhi Institute of Science and Technology (2021 – 2025)
-- 💻 Fresher trained as a **Python Full Stack Developer**, comfortable across backend, data, and now exploring AI
+- 💻 Fresher trained as a **Backend Developer & Data Analyst**, comfortable across backend, data, and now exploring AI
 - 🐍 Strong in **Python backend development, Flask, Django, SQL/MySQL, REST APIs, HTML & CSS**
 - 📊 Skilled in **data analysis and visualization** — turning raw datasets into actionable business insights
 - 📚 Currently sharpening **Python + DSA**; next up: **Generative AI & Agentic AI**
 - 📍 Based in Hyderabad, India
 
 <!-- EDIT: add a personal fun fact here if you'd like one -->
-**🎯 Looking for:** Fresher/entry-level roles in **Python Full Stack Development**, **AI/ML**, or **Data Analysis**
+**🎯 Looking for:** Fresher/entry-level roles as a **Backend Developer**, **Data Analyst**, or **AI/ML Engineer**
 
 **🤝 Open to collaborate on:** Open-source projects · Freelance work · Research projects · Startup ideas
 
@@ -170,5 +176,3 @@ A vibe-coded app (built with Google AI Studio) that helps users track what they 
 <div align="center">
 <sub>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0F2027&height=100&section=footer" width="100%"/>
